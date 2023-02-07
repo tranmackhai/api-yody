@@ -416,78 +416,6 @@
       "size": []
     },
     {
-      "id": 23,
-      "name": "Mũ Lưỡi Trai Thể Thao Thêu Chữ Yody",
-      "description": "Mũ lưỡi trai là phụ kiện phong cách dành cho cánh mày râu. Không chỉ giúp tránh nắng, gió, bụi bặm mà đôi khi còn giúp hoàn thiện outfit thật năng động và khỏe khoắn cho chàng. Cùng Yody khám phá thiết kế Mũ Lưỡi Trai Thể Thao Thêu Chữ MUM4004 thể thao basic này nhé!",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762009/Yody/Product/images_wuoxyq.jpg",
-      "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762009/Yody/Product/images_wuoxyq.jpg"
-      },
-      "colors": ["#010101"],
-      "colorsName": ["Đen"],
-      "price": 79600,
-      "priceold": 199000,
-      "sale": "-60%",
-      "new": "MỚI",
-      "type": "nam",
-      "style": "phu-kien-nam",
-      "size": []
-    },
-    {
-      "id": 24,
-      "name": "Mũ lưỡi trai phối lé thêu M",
-      "description": "Nội dung đang cập nhật ...",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762106/Yody/Product/shopping_qmezlu.webp",
-      "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762106/Yody/Product/shopping_qmezlu.webp"
-      },
-      "colors": ["#010101"],
-      "colorsName": ["Đen"],
-      "price": 79600,
-      "priceold": 199000,
-      "sale": "-60%",
-      "new": "MỚI",
-      "type": "nam",
-      "style": "phu-kien-nam",
-      "size": []
-    },
-    {
-      "id": 25,
-      "name": "Mũ Lưỡi Trai Trơn Thêu Chữ Yody",
-      "description": "Mũ lưỡi trai nam là phụ kiện mà nhiều chàng trai không thể thiếu, nó sẽ làm nổi bật thêm cá tính của người sử dụng. Ngoài tác dụng che ánh nắng hắt vào mặt đây còn là món phụ kiện thời trang năng động mùa hè. Chiếc mũ lưỡi trai trơn thêu chữ Yody sẽ giúp bạn toát lên vẻ đẹp nam tính của mình.",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762175/Yody/Product/images_pfr7cr.jpg",
-      "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762175/Yody/Product/images_pfr7cr.jpg"
-      },
-      "colors": ["#010101"],
-      "colorsName": ["Đen"],
-      "price": 79600,
-      "priceold": 199000,
-      "sale": "-60%",
-      "new": "MỚI",
-      "type": "nam",
-      "style": "phu-kien-nam",
-      "size": []
-    },
-    {
-      "id": 26,
-      "name": "Mũ Lưỡi Trai Phối Màu Tương Phản",
-      "description": "BST mũ lưỡi trai Yody mang đến cho bạn nét phá cách mới, item mới trong outfit hàng ngày. Cùng Yody khám phá ngay chiếc mũ lưỡi trai phối màu tương phản MUM4001 này nhé!",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762215/Yody/Product/images_wivl9d.jpg",
-      "images": {
-        "#384057": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762215/Yody/Product/images_wivl9d.jpg"
-      },
-      "colors": ["#384057"],
-      "colorsName": ["Xanh ngọc"],
-      "price": 79600,
-      "priceold": 199000,
-      "sale": "-60%",
-      "new": "MỚI",
-      "type": "nam",
-      "style": "phu-kien-nam",
-      "size": []
-    },
-    {
       "id": 27,
       "name": "Áo polo nữ coolmax phối bo",
       "description": "Từ chất liệu vải Coolmax - loại vải cao cấp nhất hiện nay. Thương hiệu thời trang YODY đã cho ra đời sản phẩm áo polo Coolmax APN3724 dành cho phái nữ. Vậy sản phẩm này có gì đặc biệt. Hãy cùng tìm hiểu ngay nhé",
@@ -513,7 +441,7 @@
       "description": "Năm 2021, bên cạnh dòng sản phẩm áo polo nữ  phối nẹp APN3700 . Thì Yody tiếp tục cho ra mẫu sản phẩm áo thun polo nữ với thiết kế áo polo bo kẻ ở cổ tạo sự cách điệu vô cùng trẻ trung. Không chỉ có vậy, với chất liệu cafe vô cùng mới với nhiều tính năng ưu việt hứa hẹn là sản phẩm vô cùng đáng mua của Yody trong thời điểm sắp tới.",
       "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762493/Yody/Product/apn5416-ddo-6_slkidc.jpg",
       "images": {
-        "#bf0426": "https://storage.googleapis.com/cdn.nhanh.vn/store/3138/ps/20210703/APN3890_DDO__CJN3062_DEN__3_of_4__thumb.jpg",
+        "#bf0426": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762493/Yody/Product/apn5416-ddo-6_slkidc.jpg",
         "#fff": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762508/Yody/Product/apn5416-tra-6_lgfiar.jpg"
       },
       "colors": ["#bf0426", "#f5f3ef"],
@@ -588,9 +516,9 @@
       "id": 32,
       "name": "Áo khoác gió Chipu cứng",
       "description": "Áo thiết kế mang đậm phong cách trẻ trung dành cho giới trẻ, với kiểu dáng cơ bản cực kỳ thon gọn giúp bạn tự tin khi ra đường.",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762913/Yody/Product/images_juwgus.jpg",
+      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675767638/Yody/Product/ccc7895b8f38e32484e8ba85e552a22f_xker44.jpg",
       "images": {
-        "#fdc33c": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675762913/Yody/Product/images_juwgus.jpg"
+        "#fdc33c": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675767638/Yody/Product/ccc7895b8f38e32484e8ba85e552a22f_xker44.jpg"
       },
       "colors": ["#fdc33c"],
       "colorsName": ["Vàng"],
