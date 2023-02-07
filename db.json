@@ -566,24 +566,7 @@
       "style": "quan-nu",
       "size": [28, 29, 30]
     },
-    {
-      "id": 35,
-      "name": "Quần short đai nơ",
-      "description": "Nội dung đang cập nhật ...",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763066/Yody/Product/eqpn5is89q0kvrafopmy.jpg",
-      "images": {
-        "#f8ede5": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763066/Yody/Product/eqpn5is89q0kvrafopmy.jpg"
-      },
-      "colors": ["#f8ede5"],
-      "colorsName": ["Trắng"],
-      "price": 155000,
-      "priceold": 389000,
-      "sale": "-60%",
-      "new": "MỚI",
-      "type": "nu",
-      "style": "quan-nu",
-      "size": [28, 29, 30]
-    },
+
     {
       "id": 36,
       "name": "Quần Jean Nữ Ống Rộng Lưng Cao 9 Tấc",
@@ -606,9 +589,9 @@
       "id": 37,
       "name": "Quần Jean Nữ Ôm Lưng Thấp",
       "description": "Với thị thị trường thời trang trẻ trung năng thì không thể thiếu những chiếc quần nữ dáng skinny. Chiếc quần jeans nữ ôm lưng thấp được Yody  cho ra mắt phù hợp với nhiều lứa tuổi và vóc dáng. Cùng Yody tìm hiểu chi tiết mẫu Quần Jean Nữ Ôm Lưng Thấp mà đang được giới trẻ năng động hướng tới.",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763157/Yody/Product/images_x0vimn.jpg",
+      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675772671/Yody/Product/qjn5056-den-3_nj1sov.jpg",
       "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763157/Yody/Product/images_x0vimn.jpg"
+        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675772671/Yody/Product/qjn5056-den-3_nj1sov.jpg"
       },
       "colors": ["#010101"],
       "colorsName": ["Đen"],
@@ -696,9 +679,9 @@
       "id": 42,
       "name": "Đầm Xòe Tay Sup Bồng",
       "description": "Bạn có muốn sở hữu chiếc đầm xòe voan hoa nhí nơ cổ tay phồng nhẹ nhàng bay trong gió, tôn được nét đẹp hiền thục, dịu dàng không?. Hãy tìm hiểu nhé!",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763425/Yody/Product/images_citro7.jpg",
+      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675772510/Yody/Product/d7199ccf24af52dc92769fff0631aca4_vxmjda.jpg",
       "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763425/Yody/Product/images_citro7.jpg"
+        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675772510/Yody/Product/d7199ccf24af52dc92769fff0631aca4_vxmjda.jpg"
       },
       "colors": ["#010101"],
       "colorsName": ["Đen"],
@@ -714,9 +697,9 @@
       "id": 43,
       "name": "Váy Nữ Chấm Bi Tay Gấu Xếp Ly",
       "description": "Váy nữ chấm bi tay gấu xếp ly VAN4112 là chiếc chiếc HOT HIT được nhiều chị em săn đón bất kể mùa nào. Cùng Yody khám phá ngay xem có gì đặc biệt trong chiếc váy này nhé!",
-      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763425/Yody/Product/images_citro7.jpg",
+      "image": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763483/Yody/Product/192567102_1845652875604648_7765347508354054374_n.jpg_z2okoa.jpg",
       "images": {
-        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763425/Yody/Product/images_citro7.jpg"
+        "#010101": "https://res.cloudinary.com/dhypn6jgk/image/upload/v1675763483/Yody/Product/192567102_1845652875604648_7765347508354054374_n.jpg_z2okoa.jpg"
       },
       "colors": ["#010101"],
       "colorsName": ["Đen"],
